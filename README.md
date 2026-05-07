@@ -20,18 +20,31 @@ Built as part of the **IBM SkillsBuild AI Strategy & Business Intelligence Inter
 
 ## 📁 Project Structure
 ai-hospital-receptionist/
+
 ├── backend/
+
 │ ├── app/
+
 │ │ ├── main.py
+
 │ │ ├── langgraph_flow.py
+
 │ │ └── supabase_client.py
+
 │ ├── requirements.txt
+
 │ └── .env.example
+
 ├── frontend/
+
 │ ├── src/
+
 │ ├── package.json
+
 │ ├── vite.config.js
+
 │ └── tailwind.config.js
+
 └── README.md
 
 text
